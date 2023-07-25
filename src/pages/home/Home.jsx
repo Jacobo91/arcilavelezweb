@@ -229,7 +229,7 @@ export default function Home(){
                 </figure>
                 <div className="contact-details">
                     <p>
-                        <i class="fa-solid fa-location-dot"></i> Dirección Medellín: Carrera 36 #8A-5, Edificio Meridiano, Oficina 608.
+                        <i class="fa-solid fa-location-dot"></i> Dirección Medellín: Edificio Meridian Centro empresarial Calle 5A No 43 B 25 Oficina 608
                     </p>
                     <p>
                         <i class="fa-solid fa-phone"></i> (304) 451-0771
