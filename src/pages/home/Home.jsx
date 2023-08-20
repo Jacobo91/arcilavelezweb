@@ -23,7 +23,7 @@ export default function Home(){
                 <h2>
                     Solicita tu asesoría inmediata de 15 minutos completamente GRATIS...
                 </h2>
-                <iframe width="560" height="315" src="https://www.youtube.com/embed/o5usTrH6MZI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/o5usTrH6MZI" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                 <WappButton />
             </section>
 
@@ -75,27 +75,27 @@ export default function Home(){
                 <h2>Nuestras Especialidades</h2>
                 <ul>
                     <li>
-                        <i class="fa-solid fa-check"></i> Derecho Penal y Procesal Penal.
+                        <i className="fa-solid fa-check"></i> Derecho Penal y Procesal Penal.
                     </li>
                     <br />
                     <li>
-                        <i class="fa-solid fa-check"></i> Derecho de Familia.
+                        <i className="fa-solid fa-check"></i> Derecho de Familia.
                     </li>
                     <br />
                     <li>
-                        <i class="fa-solid fa-check"></i> Derecho Comercial.
+                        <i className="fa-solid fa-check"></i> Derecho Comercial.
                     </li>
                     <br />
                     <li>
-                        <i class="fa-solid fa-check"></i> Derecho Administrativo.
+                        <i className="fa-solid fa-check"></i> Derecho Administrativo.
                     </li>
                     <br />
                     <li>
-                        <i class="fa-solid fa-check"></i> Derecho Civil.
+                        <i className="fa-solid fa-check"></i> Derecho Civil.
                     </li>
                     <br />
                     <li>
-                        <i class="fa-solid fa-check"></i> Derecho Electoral.
+                        <i className="fa-solid fa-check"></i> Derecho Electoral.
                     </li>
                 </ul>
             </section>
@@ -229,10 +229,10 @@ export default function Home(){
                 </figure>
                 <div className="contact-details">
                     <p>
-                        <i class="fa-solid fa-location-dot"></i> Dirección Medellín: Edificio Meridian Centro empresarial Calle 5A No 43 B 25 Oficina 608
+                        <i className="fa-solid fa-location-dot"></i> Dirección Medellín: Edificio Meridian Centro empresarial Calle 5A No 43 B 25 Oficina 608
                     </p>
                     <p>
-                        <i class="fa-solid fa-phone"></i> (304) 451-0771
+                        <i className="fa-solid fa-phone"></i> (304) 451-0771
                     </p>
                     <WappButton />
                 </div>

@@ -18,7 +18,7 @@ export default function Penal(){
                 <h2>
                     Solicita tu asesoría inmediata de 15 minutos completamente GRATIS...
                 </h2>
-                <iframe width="560" height="315" src="https://www.youtube.com/embed/KIApZnr08FA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/KIApZnr08FA" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                 <WappButton />
             </section>
 
@@ -135,10 +135,10 @@ export default function Penal(){
                 </figure>
                 <div className="contact-details">
                     <p>
-                        <i class="fa-solid fa-location-dot"></i> Dirección Medellín: Carrera 36 #8A-5, Edificio Meridiano, Oficina 608.
+                        <i className="fa-solid fa-location-dot"></i> Dirección Medellín: Edificio Meridian Centro empresarial Calle 5A No 43 B 25 Oficina 608.
                     </p>
                     <p>
-                        <i class="fa-solid fa-phone"></i> (304) 451-0771
+                        <i className="fa-solid fa-phone"></i> (304) 451-0771
                     </p>
                     <WappButton />
                 </div>
