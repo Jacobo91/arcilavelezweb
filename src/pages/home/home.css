@@ -203,6 +203,7 @@ footer{
     justify-content: center;
     align-items: center;
     gap: 20px;
+    color: white;
 }
 
 .footer-logo-wrapper{
@@ -218,7 +219,20 @@ footer{
 footer p{
     color: white;
 }
-
+footer ul {
+    display: flex;
+    gap: 8px;
+    align-items: baseline;
+}
+footer li {
+    list-style: none;
+}
+footer .instagram-link {
+    color: white;
+}
+footer .fa-instagram {
+    font-size: 24px;
+}
 .contact-details{
     display: grid;
     gap: 20px;

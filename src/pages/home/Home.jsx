@@ -231,10 +231,18 @@ export default function Home(){
                     <p>
                         <i className="fa-solid fa-location-dot"></i> Dirección Medellín: Edificio Meridian Centro empresarial Calle 5A No 43 B 25 Oficina 608
                     </p>
-                    <p>
-                        <i className="fa-solid fa-phone"></i> (304) 451-0771
-                    </p>
+                    <ul>
+                        <li>
+                            <i className="fa-solid fa-phone"></i> (304) 451-0771
+                        </li>
+                        <li>
+                            <a href="https://www.instagram.com/arcilavelezabogados/profilecard/?igsh=cjQ4YTJhdTluajQ2" className="instagram-link" target="_blank">
+                                <i className="fa-brands fa-instagram"></i>
+                            </a>
+                        </li>
+                    </ul>
                     <WappButton />
+
                 </div>
             </footer>
 
